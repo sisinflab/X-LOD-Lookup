@@ -208,6 +208,16 @@
                 </executions>
             </plugin>
 
+            <!-- da controllare, serve per portare il source da 1.5 a 1.7 -->
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.2</version>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
+
         </plugins>
     </build>
 
