@@ -135,6 +135,14 @@
                                 <jvmArg>-Dlogback.configurationFile=logback.xml</jvmArg>
                             </jvmArgs>
                         </launcher>
+                        <launcher>
+                            <id>Counter</id>
+                            <mainClass>org.dbpedia.lookup.counter.Counter</mainClass>
+                            <jvmArgs>
+                                <jvmArg>-Xms1g</jvmArg>
+                                <jvmArg>-Xmx2g</jvmArg>
+                            </jvmArgs>
+                        </launcher>
                     </launchers>
                 </configuration>
             </plugin>
