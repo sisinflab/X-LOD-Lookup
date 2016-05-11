@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="10bb637b-d13d-4657-84d3-1a204a06b833" name="193.204.59.21" url="http://193.204.59.21">
+        <fileTransfer host="193.204.59.21" port="2120" rootFolder="/home/albano/LookUp/extraction-framework/lookup/" accessType="SFTP" password="dfdadfcbdfc5dfc6dfc5df8cdf9bdf9adf8cdf9adf9ddf8cdf93df9a" username="albano">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2120" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

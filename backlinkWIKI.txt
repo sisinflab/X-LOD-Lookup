@@ -1,0 +1,14 @@
+query backlink mediawiki
+https://en.wikipedia.org/w/api.php?action=query&list=backlinks&bltitle=Main%20Page&bllimit=5&blfilterredir=redirects
+senza limit
+https://en.wikipedia.org/w/api.php?action=query&list=backlinks&bltitle=berlin&blfilterredir=all
+se mettiamo blpageid mettiamo l'id della pagina da cercare  (vedi Informazioni della pagina)
+tipo berlin ha id 3354
+https://en.wikipedia.org/w/api.php?action=query&list=backlinks&blpageid=3354&blfilterredir=all
+poi con blcontinue puoi prendere tutti i link e contarli (vedi mediawiki)
+
+ad esempio per Lecce che ha un id 2843386 usiamo il link
+https://it.wikipedia.org/w/api.php?action=query&list=backlinks&blpageid=2843386&blfilterredir=all&bllimit=500
+
+
+

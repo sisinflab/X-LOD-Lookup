@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.fau.cs.osr.ptk:ptk-common:1.1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/fau/cs/osr/ptk/ptk-common/1.1.1/ptk-common-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/fau/cs/osr/ptk/ptk-common/1.1.1/ptk-common-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/fau/cs/osr/ptk/ptk-common/1.1.1/ptk-common-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
