@@ -12,3 +12,7 @@
 hs_err_pid*
 src/main/resources/risultato.nt
 src/main/resources/pageLinkridotto.nt
+.idea/
+docker/
+scripts/
+target/
